@@ -1,0 +1,10 @@
+com\example\bookstoreapi\config\WebConfig.class
+com\example\bookstoreapi\controller\BookController.class
+com\example\bookstoreapi\BookstoreApiApplication.class
+com\example\bookstoreapi\service\BookService.class
+com\example\bookstoreapi\model\Book.class
+com\example\bookstoreapi\assembler\BookResourceAssembler.class
+com\example\bookstoreapi\config\ModelMapperConfig.class
+com\example\bookstoreapi\dto\BookDTO.class
+com\example\bookstoreapi\config\XmlConfig.class
+com\example\bookstoreapi\repository\BookRepository.class
