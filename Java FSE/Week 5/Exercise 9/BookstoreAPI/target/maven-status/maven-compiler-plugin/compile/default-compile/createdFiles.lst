@@ -1,0 +1,17 @@
+com\example\bookstoreapi\model\Customer.class
+com\example\bookstoreapi\service\CustomerService.class
+com\example\bookstoreapi\BookstoreApiApplication.class
+com\example\bookstoreapi\repository\CustomerRepository.class
+com\example\bookstoreapi\controller\CustomerController.class
+com\example\bookstoreapi\exception\BookNotFoundException.class
+com\example\bookstoreapi\service\BookService.class
+com\example\bookstoreapi\controller\TestController.class
+com\example\bookstoreapi\dto\CustomerDTO.class
+com\example\bookstoreapi\model\Book.class
+com\example\bookstoreapi\assembler\BookResourceAssembler.class
+com\example\bookstoreapi\dto\BookDTO.class
+com\example\bookstoreapi\exception\GlobalExceptionHandler.class
+com\example\bookstoreapi\controller\BookController.class
+com\example\bookstoreapi\exception\ResourceNotFoundException.class
+com\example\bookstoreapi\config\ModelMapperConfig.class
+com\example\bookstoreapi\repository\BookRepository.class
